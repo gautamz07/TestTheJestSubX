@@ -14,4 +14,9 @@ $(function(){
         alpha : 'ABC...'
     }
 
+    obj = {
+        home_country: 'in',
+        paymnet_option: [ 'paytm' , 'paypal' ...... ]
+    }
+
 });
