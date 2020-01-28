@@ -6,3 +6,12 @@ let _instance = new Glide('.glide' , {
     autoplay: 2000,
     rewind: false
 }).mount();
+
+
+$(function(){
+
+    _under = {
+        alpha : 'ABC...'
+    }
+
+});
